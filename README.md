@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<ORG_NAME>](https://circleci.com/github/TorcaST/Project4.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
