@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/github/TorcaST/Project4.svg?style=svg)](<LINK>)
+[![TorcaST](https://circleci.com/github/TorcaST/Project4.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
