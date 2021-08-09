@@ -11,6 +11,7 @@ dockerpath=myapp:latest
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login
 docker tag $dockerpath tonisi4568489/testmyapp:latest
 
 # Step 3:
