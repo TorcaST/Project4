@@ -1,1 +1,6 @@
-<paste log output from Kubernetes-mediated prediction, here>
+pod/myappdemo created
+NAME        READY   STATUS              RESTARTS   AGE
+myappdemo   0/1     ContainerCreating   0          0s
+Forwarding from 127.0.0.1:80 -> 80
+Forwarding from [::1]:80 -> 80
+Handling connection for 80
